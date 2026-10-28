@@ -1,10 +1,10 @@
 # bedrock
 
-![img](https://bedrock.studiouvu.com/images/1024x500.png)
+![img](WebApplication2/wwwroot/images/1024x500.png)
 
 # About
 
-![img](https://bedrock.studiouvu.com/images/screenshot-2.png)
+![img](WebApplication2/wwwroot/images/screenshot-2.png)
 
 ASP.NET으로 개발된 To-do 리스트 사이트입니다.  
 간단하게 할 일을 정리하기 위해 사이드 프로젝트로 개발했습니다.  
